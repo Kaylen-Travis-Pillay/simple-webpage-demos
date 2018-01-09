@@ -1,3 +1,43 @@
+body{
+    width: 50%;
+    border: 15px solid #bdc3c7;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.post{
+    width: 95%;
+    margin: auto;
+}
+.post h3{
+    font-family: Raleway;
+    letter-spacing: 4px;
+    color: #3498db;
+    text-transform: uppercase;
+}
+.post h2{
+    font-family: "Source Sans Pro";
+    font-size: 40px;
+    color: #2c3e50;
+    margin-bottom: 3%;
+}
+.post p{
+    font-family: Macondo;
+}
+.post .block-post{
+    border-left: 5px solid #bdc3c7;
+    padding-left: 1%;
+}
+.post .block-post::first-letter{
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.post hr{
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+    margin-bottom: 10px;
+}
 h1{
     text-align: center;
 }
