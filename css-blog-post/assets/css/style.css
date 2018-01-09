@@ -1,5 +1,6 @@
 body{
-    width: 50%;
+    max-width: 700px;
+    width: 80%;
     border: 15px solid #bdc3c7;
     margin-top: 2%;
     margin-left: auto;
