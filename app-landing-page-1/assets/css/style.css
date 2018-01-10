@@ -1,0 +1,59 @@
+body{
+    background: url(https://source.unsplash.com/BS-Uxe8wU5Y) no-repeat center center fixed;
+    background-size: cover;
+}
+.navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand{
+    color: wheat;
+}
+.navbar-nav > li > a{
+    color: white;
+}
+.nav > li > a:focus, .nav > li > a:hover{
+    color: wheat;
+    background-color: transparent;
+}
+.footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+}
+.nav > li > a:focus, .nav > li > a > .active{
+    color: wheat;
+}
+.container-footer{
+    text-align: center;
+}
+#h{
+    margin-left: auto;
+    margin-right: auto;
+}
+.developer{
+    color: whitesmoke;
+}
+.content{
+    text-align: center;
+    padding-top: 10%;
+}
+.content-color{
+    color: whitesmoke;
+}
+#content-description{
+    color: rgb(197, 197, 197);
+    font-family: "Open Sans Condensed";
+    font-size: 1.5em;
+}
+#content-title{
+    font-family: Ranga;
+    font-size: 4.5em;
+}
+#content-seperator{
+    width:25%;
+}
+.navbar-toggle .icon-bar{
+    background-color: wheat;
+}
+.container-footer{
+    margin-top: 10%;
+}
