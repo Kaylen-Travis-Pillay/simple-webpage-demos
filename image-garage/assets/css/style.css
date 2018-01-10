@@ -1,3 +1,33 @@
-h1{
-    text-align: center;
+.image{
+    width: 100%;
+    height: 250px;
+    background-size: cover;
+    background-position: center center;
+}
+.image1{
+    background-image: url(https://source.unsplash.com/cPF2nlWcMY4)
+}
+.image2{
+    background-image: url(https://source.unsplash.com/cPF2nlWcMY4)
+}
+.image3{
+    background-image: url(https://source.unsplash.com/cPF2nlWcMY4)
+}
+.image4{
+    background-image: url(https://source.unsplash.com/cPF2nlWcMY4)
+}
+.image5{
+    background-image: url(https://source.unsplash.com/cPF2nlWcMY4)
+}
+.image6{
+    background-image: url(https://source.unsplash.com/cPF2nlWcMY4)
+}
+.image7{
+    background-image: url(https://source.unsplash.com/cPF2nlWcMY4)
+}
+.image8{
+    background-image: url(https://source.unsplash.com/cPF2nlWcMY4)
+}
+.image9{
+    background-image: url(https://source.unsplash.com/cPF2nlWcMY4)
 }
