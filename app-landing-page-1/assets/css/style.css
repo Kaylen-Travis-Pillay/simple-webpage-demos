@@ -57,3 +57,6 @@ body{
 .container-footer{
     margin-top: 10%;
 }
+.active{
+    background-color: rgb(197, 192, 195);
+}
